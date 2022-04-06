@@ -17,4 +17,4 @@
 - 📫 Reach me: chiranthkothari96@gmail.com
 - ⚡️ Fun fact: I'm a huge fan of The Office TV series
 
-![](https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif)
+![](https://media.giphy.com/media/6R2mLi910HL4VXFwOG/giphy.gif)

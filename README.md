@@ -15,6 +15,6 @@
 - 🌱 Learning all about **Full-stack development**
 - 💬 Ping me about **javascript**, **flutter**, **notion**, **reactjs**, **nodejs**, **firebase**
 - 📫 Reach me: chiranthkothari96@gmail.com
-- ⚡️ Fun fact: I'm a huge fan of The Office TV series
+- ⚡️ Fun fact: I'm a huge fan of **The Office** TV series
 
 <img src="https://media.giphy.com/media/6R2mLi910HL4VXFwOG/giphy.gif" width="250" />

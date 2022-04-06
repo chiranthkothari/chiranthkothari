@@ -16,3 +16,4 @@
 - 💬 Ping me about **javascript**, **flutter**, **notion**, **reactjs**, **nodejs**, **firebase**
 - 📫 Reach me: chiranthkothari96@gmail.com
 - ⚡️ Fun fact: I'm a huge fan of The Office TV series
+![](https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif)

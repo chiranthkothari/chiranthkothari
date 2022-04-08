@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Learning backend development with NodeJS;
+- 👨‍💻 Learning backend development with NodeJS;
 - 💰 Planing to build an expense manager with ReactJS & NodeJS;
 
 ##### BIO

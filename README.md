@@ -10,7 +10,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **Logically**
-- ⚙️ I use daily: `.js`, `.dart`, `.html`, `.css`, `.ai`, `.cdr`
+- ⚙️ I use daily: `.dart`, `.py`, `.js`, `.dart`, `.html`, `.css`, `.ai`, `.cdr`
 - 💅 My top tools: **ZorinOS**, **Windows 11**, **VS code**, **Postman**, **CorelDraw**, **Notion**
 - 🌱 Learning all about **Full-stack development**
 - 💬 Ping me about **javascript**, **flutter**, **notion**, **reactjs**, **nodejs**, **firebase**
